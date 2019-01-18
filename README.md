@@ -10,5 +10,5 @@ Example usage:
 
 
 ### Requirements
-Python  3.x  
+Python  3.6.5  
 [Requests ](http://docs.python-requests.org/en/master/) 
